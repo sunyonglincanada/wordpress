@@ -1,0 +1,1096 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Bloor_Danforth_Line" id="Bloor_Danforth_Line">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+</Schema>
+<Folder><name>Bloor_Danforth_Line</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Bloor_Danforth_Line">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.5359,43.6368,2357 -79.5275,43.6443,2357 -79.5238,43.6454,2357 -79.5116,43.648,2357 -79.4995,43.6505,2357 -79.4954,43.6501,2357 -79.4895,43.6481,2357 -79.4865,43.6484,2357 -79.4849,43.6496,2357 -79.4844,43.6498,2357 -79.4762,43.6517,2357 -79.4668,43.654,2357 -79.4596,43.6555,2357 -79.4531,43.6569,2357 -79.4431,43.6591,2357 -79.4357,43.6608,2357 -79.4261,43.663,2357 -79.4187,43.6647,2357 -79.4116,43.6663,2357 -79.4042,43.6678,2357 -79.3981,43.6691,2357 -79.3911,43.6707,2357 -79.3907,43.6708,2357 -79.3868,43.6713,2357 -79.3851,43.6712,2357 -79.3821,43.6715,2357 -79.3766,43.6718,2357 -79.3708,43.6724,2357 -79.3689,43.6736,2357 -79.3665,43.6751,2357 -79.363,43.6761,2357 -79.3587,43.677,2357 -79.3523,43.6782,2357 -79.3452,43.6795,2357 -79.3378,43.681,2357 -79.3309,43.6825,2357 -79.323,43.6841,2357 -79.3127,43.6865,2357 -79.3021,43.6892,2357 -79.2958,43.6908,2357 -79.2904,43.6943,2357 -79.2885,43.6949,2357 -79.2827,43.6972,2357 -79.2809,43.6995,2357 -79.279,43.7111,2357 -79.2783,43.7156,2357 -79.2748,43.7232,2357 -79.2675,43.7311,2357 -79.2636,43.7324,2357</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Kipling</name>
+	<description>5247 Dundas St. W  &lt;br/&gt;  
+            
+               &lt;img src=&quot;elevator.png&quot;/&gt;  
+            
+               &lt;img src=&quot;washroom.png&quot;/&gt;  
+            
+               &lt;img src=&quot;metropassparking.png&quot;/&gt;  
+            
+               &lt;img src=&quot;cashparking.png&quot;/&gt;  
+            </description>
+	<ExtendedData><SchemaData schemaUrl="#Bloor_Danforth_Line">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.5359,43.6368,2400</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Islington</name>
+	<description>3286 Bloor St. W  &lt;br/&gt;  
+            
+               &lt;img src=&quot;metropassparking.png&quot;/&gt;  
+            
+               &lt;img src=&quot;cashparking.png&quot;/&gt;  
+            </description>
+	<ExtendedData><SchemaData schemaUrl="#Bloor_Danforth_Line">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.5238,43.6454,2400</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Royal York</name>
+	<description>3012 Bloor St. W  &lt;br/&gt;  
+            </description>
+	<ExtendedData><SchemaData schemaUrl="#Bloor_Danforth_Line">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.5116,43.648,2400</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Old Mill</name>
+	<description>2672 Bloor St. W  &lt;br/&gt;  
+            
+              Transfer required.  &lt;br/&gt;  
+            </description>
+	<ExtendedData><SchemaData schemaUrl="#Bloor_Danforth_Line">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.4954,43.6501,2400</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jane</name>
+	<description>2440 Bloor St. W  &lt;br/&gt;  
+            
+              Transfer required.  &lt;br/&gt;  
+            </description>
+	<ExtendedData><SchemaData schemaUrl="#Bloor_Danforth_Line">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.4849,43.6496,2400</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Runnymede</name>
+	<description>2218 Bloor St. W  &lt;br/&gt;  
+            
+              Transfer required.  &lt;br/&gt;  
+            </description>
+	<ExtendedData><SchemaData schemaUrl="#Bloor_Danforth_Line">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.4762,43.6517,2400</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>High Park</name>
+	<description>1874 Bloor St. W  &lt;br/&gt;  
+            
+              Transfer required.  &lt;br/&gt;  
+            </description>
+	<ExtendedData><SchemaData schemaUrl="#Bloor_Danforth_Line">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.4668,43.654,2400</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Keele</name>
+	<description>1733 Bloor St. W  &lt;br/&gt;  
+            
+               &lt;img src=&quot;cashparking.png&quot;/&gt;  
+            </description>
+	<ExtendedData><SchemaData schemaUrl="#Bloor_Danforth_Line">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.4596,43.6555,2400</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dundas West</name>
+	<description>1525 Bloor St. W  &lt;br/&gt;  
+            
+               &lt;img src=&quot;elevator.png&quot;/&gt;  
+            </description>
+	<ExtendedData><SchemaData schemaUrl="#Bloor_Danforth_Line">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.4531,43.6569,2400</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lansdowne</name>
+	<description>1287 Bloor St. W  &lt;br/&gt;  
+            
+              Transfer required.  &lt;br/&gt;  
+            </description>
+	<ExtendedData><SchemaData schemaUrl="#Bloor_Danforth_Line">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.4431,43.6591,2400</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dufferin</name>
+	<description>1126 Bloor St. W  &lt;br/&gt;  
+            
+              Transfer required.  &lt;br/&gt;  
+            </description>
+	<ExtendedData><SchemaData schemaUrl="#Bloor_Danforth_Line">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.4357,43.6608,2400</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ossington</name>
+	<description>883 Bloor St. W  &lt;br/&gt;  
+            </description>
+	<ExtendedData><SchemaData schemaUrl="#Bloor_Danforth_Line">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.4261,43.663,2400</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Christie</name>
+	<description>726 Bloor St. W  &lt;br/&gt;  
+            
+              Transfer required.  &lt;br/&gt;  
+            </description>
+	<ExtendedData><SchemaData schemaUrl="#Bloor_Danforth_Line">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.4187,43.6647,2400</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bathurst</name>
+	<description>565 Bloor St. W  &lt;br/&gt;  
+            
+               &lt;img src=&quot;elevator.png&quot;/&gt;  
+            </description>
+	<ExtendedData><SchemaData schemaUrl="#Bloor_Danforth_Line">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.4116,43.6663,2400</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Spadina</name>
+	<description>371 Bloor St. W  &lt;br/&gt;  
+            
+               &lt;img src=&quot;elevator.png&quot;/&gt;  
+            </description>
+	<ExtendedData><SchemaData schemaUrl="#Bloor_Danforth_Line">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.4042,43.6678,2400</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>St. George</name>
+	<description>323 Bloor St. W  &lt;br/&gt;  
+            
+               &lt;img src=&quot;elevator.png&quot;/&gt;  
+            </description>
+	<ExtendedData><SchemaData schemaUrl="#Bloor_Danforth_Line">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3981,43.6691,2400</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bay</name>
+	<description>64 Bloor St. W  &lt;br/&gt;  
+            
+              Transfer required.  &lt;br/&gt;  
+            </description>
+	<ExtendedData><SchemaData schemaUrl="#Bloor_Danforth_Line">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3911,43.6707,2400</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bloor-Yonge</name>
+	<description>35 Bloor St. / 733 Yonge St.  &lt;br/&gt;  
+            
+              Transfer required.  &lt;br/&gt;  
+            
+               &lt;img src=&quot;elevator.png&quot;/&gt;  
+            
+               &lt;img src=&quot;washroom.png&quot;/&gt;  
+            </description>
+	<ExtendedData><SchemaData schemaUrl="#Bloor_Danforth_Line">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3868,43.6713,2400</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sherbourne</name>
+	<description>420 Bloor St. E  &lt;br/&gt;  
+            
+              Transfer required.  &lt;br/&gt;  
+            </description>
+	<ExtendedData><SchemaData schemaUrl="#Bloor_Danforth_Line">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3766,43.6718,2400</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Castle Frank</name>
+	<description>600 Bloor St. E  &lt;br/&gt;  
+            </description>
+	<ExtendedData><SchemaData schemaUrl="#Bloor_Danforth_Line">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3689,43.6736,2400</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Broadview</name>
+	<description>90 Danforth Ave.  &lt;br/&gt;  
+            </description>
+	<ExtendedData><SchemaData schemaUrl="#Bloor_Danforth_Line">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3587,43.677,2400</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chester</name>
+	<description>370 Danforth Ave.  &lt;br/&gt;  
+            </description>
+	<ExtendedData><SchemaData schemaUrl="#Bloor_Danforth_Line">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3523,43.6782,2400</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pape</name>
+	<description>650 Danforth Ave.  &lt;br/&gt;  
+            </description>
+	<ExtendedData><SchemaData schemaUrl="#Bloor_Danforth_Line">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3452,43.6795,2400</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Donlands</name>
+	<description>990 Danforth Ave.  &lt;br/&gt;  
+            </description>
+	<ExtendedData><SchemaData schemaUrl="#Bloor_Danforth_Line">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3378,43.681,2400</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Greenwood</name>
+	<description>1177 Danforth Ave.  &lt;br/&gt;  
+            </description>
+	<ExtendedData><SchemaData schemaUrl="#Bloor_Danforth_Line">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3309,43.6825,2400</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Coxwell</name>
+	<description>1568 Danforth Ave.  &lt;br/&gt;  
+            </description>
+	<ExtendedData><SchemaData schemaUrl="#Bloor_Danforth_Line">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.323,43.6841,2400</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Woodbine</name>
+	<description>2072 Danforth Ave.  &lt;br/&gt;  
+            </description>
+	<ExtendedData><SchemaData schemaUrl="#Bloor_Danforth_Line">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3127,43.6865,2400</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Main Street</name>
+	<description>2550 Danforth Ave.  &lt;br/&gt;  
+            
+               &lt;img src=&quot;elevator.png&quot;/&gt;  
+            </description>
+	<ExtendedData><SchemaData schemaUrl="#Bloor_Danforth_Line">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3021,43.6892,2400</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Victoria Park</name>
+	<description>777 Victoria Park Ave.  &lt;br/&gt;  
+            
+               &lt;img src=&quot;metropassparking.png&quot;/&gt;  
+            </description>
+	<ExtendedData><SchemaData schemaUrl="#Bloor_Danforth_Line">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.2885,43.6949,2400</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Warden</name>
+	<description>3276 St. Clair Ave. E  &lt;br/&gt;  
+            
+               &lt;img src=&quot;washroom.png&quot;/&gt;  
+            
+               &lt;img src=&quot;metropassparking.png&quot;/&gt;  
+            
+               &lt;img src=&quot;cashparking.png&quot;/&gt;  
+            </description>
+	<ExtendedData><SchemaData schemaUrl="#Bloor_Danforth_Line">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.279,43.7111,2400</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kennedy</name>
+	<description>2455 Eglinton Ave. E  &lt;br/&gt;  
+            
+               &lt;img src=&quot;elevator.png&quot;/&gt;  
+            
+               &lt;img src=&quot;washroom.png&quot;/&gt;  
+            
+               &lt;img src=&quot;metropassparking.png&quot;/&gt;  
+            
+               &lt;img src=&quot;cashparking.png&quot;/&gt;  
+            </description>
+	<ExtendedData><SchemaData schemaUrl="#Bloor_Danforth_Line">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.2636,43.7324,2400</coordinates></Point>
+  </Placemark>
+</Folder>
+<Folder><name>Yonge_University_Line</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Yonge_University_Line">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.4623,43.7503,2357 -79.4604,43.7454,2357 -79.4506,43.7363,2357 -79.45,43.734,2357 -79.4479,43.7253,2357 -79.4441,43.7161,2357 -79.4407,43.7096,2357 -79.436,43.6988,2357 -79.4341,43.695,2357 -79.4294,43.6912,2357 -79.4231,43.6904,2357 -79.4165,43.6885,2357 -79.4147,43.6839,2357 -79.4114,43.6826,2357 -79.4092,43.6812,2357 -79.4067,43.6751,2357 -79.4044,43.6694,2357 -79.4024,43.6682,2357 -79.3981,43.6691,2357 -79.3954,43.6694,2357 -79.3944,43.669,2357 -79.3933,43.6667,2357 -79.3905,43.6599,2357 -79.3882,43.6548,2357 -79.3864,43.6509,2357 -79.3848,43.6476,2357 -79.3836,43.6461,2357 -79.3824,43.6456,2357 -79.3802,43.6459,2357 -79.3775,43.6465,2357 -79.3773,43.6472,2357 -79.3782,43.6491,2357 -79.3797,43.6523,2357 -79.3815,43.6561,2357 -79.3834,43.6613,2357 -79.3845,43.665,2357 -79.3868,43.6713,2357 -79.3884,43.6764,2357 -79.3909,43.6825,2357 -79.3937,43.6881,2357 -79.3975,43.6981,2357 -79.3986,43.7066,2357 -79.4021,43.7251,2357 -79.4063,43.7441,2357 -79.4104,43.7616,2357 -79.412,43.7688,2357 -79.4151,43.7799,2357</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Downsview</name>
+	<description>1035 Sheppard Ave. W  &lt;br/&gt;  
+            
+               &lt;img src=&quot;elevator.png&quot;/&gt;  
+            
+               &lt;img src=&quot;washroom.png&quot;/&gt;  
+            
+               &lt;img src=&quot;metropassparking.png&quot;/&gt;  
+            
+               &lt;img src=&quot;cashparking.png&quot;/&gt;  
+            </description>
+	<ExtendedData><SchemaData schemaUrl="#Yonge_University_Line">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.4623,43.7503,2400</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wilson</name>
+	<description>570 Wilson Ave.  &lt;br/&gt;  
+            
+               &lt;img src=&quot;washroom.png&quot;/&gt;  
+            
+               &lt;img src=&quot;metropassparking.png&quot;/&gt;  
+            
+               &lt;img src=&quot;cashparking.png&quot;/&gt;  
+            </description>
+	<ExtendedData><SchemaData schemaUrl="#Yonge_University_Line">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.45,43.734,2400</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Yorkdale</name>
+	<description>Yorkdale Shopping Centre  &lt;br/&gt;  
+            
+              Transfer required.  &lt;br/&gt;  
+            
+               &lt;img src=&quot;metropassparking.png&quot;/&gt;  
+            
+               &lt;img src=&quot;cashparking.png&quot;/&gt;  
+            </description>
+	<ExtendedData><SchemaData schemaUrl="#Yonge_University_Line">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.4479,43.7253,2400</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lawrence West</name>
+	<description>655 Lawrence Ave. W  &lt;br/&gt;  
+            </description>
+	<ExtendedData><SchemaData schemaUrl="#Yonge_University_Line">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.4441,43.7161,2400</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Glencairn</name>
+	<description>785 Glencairn Ave.  &lt;br/&gt;  
+            
+              Transfer required.  &lt;br/&gt;  
+            </description>
+	<ExtendedData><SchemaData schemaUrl="#Yonge_University_Line">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.4407,43.7096,2400</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Eglinton West</name>
+	<description>1300 Eglinton Ave. W  &lt;br/&gt;  
+            
+               &lt;img src=&quot;elevator.png&quot;/&gt;  
+            
+               &lt;img src=&quot;cashparking.png&quot;/&gt;  
+            </description>
+	<ExtendedData><SchemaData schemaUrl="#Yonge_University_Line">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.436,43.6988,2400</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>St. Clair West</name>
+	<description>370 St. Clair Ave. W  &lt;br/&gt;  
+            </description>
+	<ExtendedData><SchemaData schemaUrl="#Yonge_University_Line">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.4147,43.6839,2400</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dupont</name>
+	<description>278 Dupont St.  &lt;br/&gt;  
+            
+              Transfer required.  &lt;br/&gt;  
+            </description>
+	<ExtendedData><SchemaData schemaUrl="#Yonge_University_Line">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.4067,43.6751,2400</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Spadina</name>
+	<description>371 Bloor St. W  &lt;br/&gt;  
+            </description>
+	<ExtendedData><SchemaData schemaUrl="#Yonge_University_Line">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.4044,43.6694,2400</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>St. George</name>
+	<description>323 Bloor St. W  &lt;br/&gt;  
+            
+               &lt;img src=&quot;elevator.png&quot;/&gt;  
+            </description>
+	<ExtendedData><SchemaData schemaUrl="#Yonge_University_Line">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3981,43.6691,2400</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Museum</name>
+	<description>75 Queen's Park  &lt;br/&gt;  
+            
+              Transfer required.  &lt;br/&gt;  
+            
+               &lt;img src=&quot;elevator.png&quot;/&gt;  
+            </description>
+	<ExtendedData><SchemaData schemaUrl="#Yonge_University_Line">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3933,43.6667,2400</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Queen's Park</name>
+	<description>671 University Ave.  &lt;br/&gt;  
+            
+              Transfer required.  &lt;br/&gt;  
+            </description>
+	<ExtendedData><SchemaData schemaUrl="#Yonge_University_Line">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3905,43.6599,2400</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>St. Patrick</name>
+	<description>449 University Ave.  &lt;br/&gt;  
+            
+              Transfer required.  &lt;br/&gt;  
+            </description>
+	<ExtendedData><SchemaData schemaUrl="#Yonge_University_Line">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3882,43.6548,2400</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Osgoode</name>
+	<description>250 University Ave.  &lt;br/&gt;  
+            
+              Transfer required.  &lt;br/&gt;  
+            </description>
+	<ExtendedData><SchemaData schemaUrl="#Yonge_University_Line">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3864,43.6509,2400</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>St. Andrew</name>
+	<description>147 University Ave.  &lt;br/&gt;  
+            
+              Transfer required.  &lt;br/&gt;  
+            </description>
+	<ExtendedData><SchemaData schemaUrl="#Yonge_University_Line">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3848,43.6476,2400</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Union Station</name>
+	<description>55 Front St. W  &lt;br/&gt;  
+            
+              Transfer required.  &lt;br/&gt;  
+            
+               &lt;img src=&quot;elevator.png&quot;/&gt;  
+            </description>
+	<ExtendedData><SchemaData schemaUrl="#Yonge_University_Line">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3802,43.6459,2400</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>King</name>
+	<description>70 Yonge St.  &lt;br/&gt;  
+            
+              Transfer required.  &lt;br/&gt;  
+            </description>
+	<ExtendedData><SchemaData schemaUrl="#Yonge_University_Line">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3782,43.6491,2400</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Queen</name>
+	<description>171 Yonge St.  &lt;br/&gt;  
+            
+              Transfer required.  &lt;br/&gt;  
+            
+               &lt;img src=&quot;elevator.png&quot;/&gt;  
+            </description>
+	<ExtendedData><SchemaData schemaUrl="#Yonge_University_Line">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3797,43.6523,2400</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dundas</name>
+	<description>300 Yonge St.  &lt;br/&gt;  
+            
+              Transfer required.  &lt;br/&gt;  
+            
+               &lt;img src=&quot;elevator.png&quot;/&gt;  
+            </description>
+	<ExtendedData><SchemaData schemaUrl="#Yonge_University_Line">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3815,43.6561,2400</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>College</name>
+	<description>448 Yonge St.  &lt;br/&gt;  
+            
+              Transfer required.  &lt;br/&gt;  
+            </description>
+	<ExtendedData><SchemaData schemaUrl="#Yonge_University_Line">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3834,43.6613,2400</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wellesley</name>
+	<description>551 Yonge St.  &lt;br/&gt;  
+            
+              Transfer required.  &lt;br/&gt;  
+            </description>
+	<ExtendedData><SchemaData schemaUrl="#Yonge_University_Line">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3845,43.665,2400</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bloor-Yonge</name>
+	<description>35 Bloor St. / 733 Yonge St.  &lt;br/&gt;  
+            
+              Transfer required.  &lt;br/&gt;  
+            
+               &lt;img src=&quot;elevator.png&quot;/&gt;  
+            
+               &lt;img src=&quot;washroom.png&quot;/&gt;  
+            </description>
+	<ExtendedData><SchemaData schemaUrl="#Yonge_University_Line">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3868,43.6713,2400</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rosedale</name>
+	<description>1009 Yonge St.  &lt;br/&gt;  
+            </description>
+	<ExtendedData><SchemaData schemaUrl="#Yonge_University_Line">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3884,43.6764,2400</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Summerhill</name>
+	<description>1189 Yonge St.  &lt;br/&gt;  
+            
+              Transfer required.  &lt;br/&gt;  
+            </description>
+	<ExtendedData><SchemaData schemaUrl="#Yonge_University_Line">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3909,43.6825,2400</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>St. Clair</name>
+	<description>1441 Yonge St.  &lt;br/&gt;  
+            </description>
+	<ExtendedData><SchemaData schemaUrl="#Yonge_University_Line">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3937,43.6881,2400</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Davisville</name>
+	<description>1900 Yonge St.  &lt;br/&gt;  
+            
+               &lt;img src=&quot;elevator.png&quot;/&gt;  
+            </description>
+	<ExtendedData><SchemaData schemaUrl="#Yonge_University_Line">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3975,43.6981,2400</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Eglinton</name>
+	<description>2190 Yonge St.  &lt;br/&gt;  
+            
+               &lt;img src=&quot;elevator.png&quot;/&gt;  
+            
+               &lt;img src=&quot;washroom.png&quot;/&gt;  
+            </description>
+	<ExtendedData><SchemaData schemaUrl="#Yonge_University_Line">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3986,43.7066,2400</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lawrence</name>
+	<description>3101 Yonge St.  &lt;br/&gt;  
+            </description>
+	<ExtendedData><SchemaData schemaUrl="#Yonge_University_Line">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.4021,43.7251,2400</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>York Mills</name>
+	<description>4015 Yonge St.  &lt;br/&gt;  
+            
+               &lt;img src=&quot;cashparking.png&quot;/&gt;  
+            </description>
+	<ExtendedData><SchemaData schemaUrl="#Yonge_University_Line">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.4063,43.7441,2400</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sheppard-Yonge</name>
+	<description>4800 Yonge St.  &lt;br/&gt;  
+            
+               &lt;img src=&quot;elevator.png&quot;/&gt;  
+            
+               &lt;img src=&quot;washroom.png&quot;/&gt;  
+            </description>
+	<ExtendedData><SchemaData schemaUrl="#Yonge_University_Line">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.4104,43.7616,2400</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>North York Centre</name>
+	<description>5152 Yonge St.  &lt;br/&gt;  
+            
+              Transfer required.  &lt;br/&gt;  
+            </description>
+	<ExtendedData><SchemaData schemaUrl="#Yonge_University_Line">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.412,43.7688,2400</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Finch</name>
+	<description>5714 Yonge St.  &lt;br/&gt;  
+            
+               &lt;img src=&quot;elevator.png&quot;/&gt;  
+            
+               &lt;img src=&quot;washroom.png&quot;/&gt;  
+            
+               &lt;img src=&quot;metropassparking.png&quot;/&gt;  
+            
+               &lt;img src=&quot;cashparking.png&quot;/&gt;  
+            </description>
+	<ExtendedData><SchemaData schemaUrl="#Yonge_University_Line">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.4151,43.7799,2400</coordinates></Point>
+  </Placemark>
+</Folder>
+<Folder><name>Scarborough_Line</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Scarborough_Line">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.2636,43.7324,2357 -79.2629,43.7329,2357 -79.2701,43.7504,2357 -79.2762,43.7668,2357 -79.2767,43.7685,2357 -79.2757,43.7696,2357 -79.2719,43.7704,2357 -79.2677,43.7714,2357 -79.266,43.772,2357 -79.2639,43.7725,2357 -79.2593,43.774,2357 -79.2582,43.7744,2357 -79.256,43.7748,2357 -79.2534,43.775,2357 -79.2518,43.775,2357</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Kennedy</name>
+	<description>2455 Eglinton Ave. E  &lt;br/&gt;  
+            
+               &lt;img src=&quot;elevator.png&quot;/&gt;  
+            
+               &lt;img src=&quot;washroom.png&quot;/&gt;  
+            
+               &lt;img src=&quot;metropassparking.png&quot;/&gt;  
+            
+               &lt;img src=&quot;cashparking.png&quot;/&gt;  
+            </description>
+	<ExtendedData><SchemaData schemaUrl="#Scarborough_Line">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.2636,43.7324,2400</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lawrence East</name>
+	<description>2444 Lawrence Ave. E  &lt;br/&gt;  
+            
+               &lt;img src=&quot;cashparking.png&quot;/&gt;  
+            </description>
+	<ExtendedData><SchemaData schemaUrl="#Scarborough_Line">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.2701,43.7504,2400</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ellesmere</name>
+	<description>1025 Ellesmere Rd.  &lt;br/&gt;  
+            
+              Transfer required.  &lt;br/&gt;  
+            </description>
+	<ExtendedData><SchemaData schemaUrl="#Scarborough_Line">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.2762,43.7668,2400</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Midland</name>
+	<description>2085 Midland Ave.  &lt;br/&gt;  
+            
+              Transfer required.  &lt;br/&gt;  
+            </description>
+	<ExtendedData><SchemaData schemaUrl="#Scarborough_Line">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.2719,43.7704,2400</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Scarborough Centre</name>
+	<description>Scarborough Town Centre  &lt;br/&gt;  
+            
+               &lt;img src=&quot;elevator.png&quot;/&gt;  
+            </description>
+	<ExtendedData><SchemaData schemaUrl="#Scarborough_Line">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.2582,43.7744,2400</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>McCowan</name>
+	<description>1275 McCowan Rd.  &lt;br/&gt;  
+            
+              Transfer required.  &lt;br/&gt;  
+            </description>
+	<ExtendedData><SchemaData schemaUrl="#Scarborough_Line">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.2518,43.775,2400</coordinates></Point>
+  </Placemark>
+</Folder>
+<Folder><name>Sheppard_Line</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Sheppard_Line">
+		<SimpleData name="tessellate">1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-79.4104,43.7616,2357 -79.3883,43.7663,2357 -79.388,43.7665,2357 -79.3866,43.7669,2357 -79.3767,43.769,2357 -79.3663,43.7712,2357 -79.3641,43.7715,2357 -79.3612,43.7718,2357 -79.3472,43.7749,2357</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name>Sheppard-Yonge</name>
+	<description>4800 Yonge St.  &lt;br/&gt;  
+            
+               &lt;img src=&quot;elevator.png&quot;/&gt;  
+            
+               &lt;img src=&quot;washroom.png&quot;/&gt;  
+            </description>
+	<ExtendedData><SchemaData schemaUrl="#Sheppard_Line">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.4104,43.7616,2400</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bayview</name>
+	<description>550 Sheppard Ave. E  &lt;br/&gt;  
+            
+               &lt;img src=&quot;elevator.png&quot;/&gt;  
+            </description>
+	<ExtendedData><SchemaData schemaUrl="#Sheppard_Line">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.388,43.7665,2400</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bessarion</name>
+	<description>701 Sheppard Ave. E  &lt;br/&gt;  
+            
+               &lt;img src=&quot;elevator.png&quot;/&gt;  
+            </description>
+	<ExtendedData><SchemaData schemaUrl="#Sheppard_Line">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3767,43.769,2400</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Leslie</name>
+	<description>1209 Sheppard Ave. E  &lt;br/&gt;  
+            
+               &lt;img src=&quot;elevator.png&quot;/&gt;  
+            
+               &lt;img src=&quot;metropassparking.png&quot;/&gt;  
+            </description>
+	<ExtendedData><SchemaData schemaUrl="#Sheppard_Line">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3641,43.7715,2400</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Don Mills</name>
+	<description>1700 Sheppard Ave. E  &lt;br/&gt;  
+            
+               &lt;img src=&quot;elevator.png&quot;/&gt;  
+            
+               &lt;img src=&quot;washroom.png&quot;/&gt;  
+            
+               &lt;img src=&quot;cashparking.png&quot;/&gt;  
+            </description>
+	<ExtendedData><SchemaData schemaUrl="#Sheppard_Line">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.3472,43.7749,2400</coordinates></Point>
+  </Placemark>
+</Folder>
+<Schema name="Yonge_University_Line" id="Yonge_University_Line">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+</Schema>
+<Schema name="Scarborough_Line" id="Scarborough_Line">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+</Schema>
+<Schema name="Sheppard_Line" id="Sheppard_Line">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+</Schema>
+</Document></kml>
